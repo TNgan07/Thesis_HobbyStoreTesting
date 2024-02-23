@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a490c59b-71f7-4822-bcc9-418a7757a89d</testSuiteGuid>
+   <testCaseLink>
+      <guid>28f46923-9758-4b52-918d-28a27931f588</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Customer_UI/SignIn_LogIn/TC2_Customer_LogIn_Successfully</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>aa8caa3c-8203-4c78-ad6f-1e4b48bcb994</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>aa8caa3c-8203-4c78-ad6f-1e4b48bcb994</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>245ecd05-c693-4931-8194-22472092a36c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>aa8caa3c-8203-4c78-ad6f-1e4b48bcb994</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>f4652dda-58c5-47b3-9492-53a1e9505fde</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>65994014-87c6-443c-9ac2-40a9a28af998</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Customer_UI/SignIn_LogIn/TC3_Customer_Login_Failed_with_Wrong_Password</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9e6c0d71-f043-47d6-a67b-341b8455070e</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9e6c0d71-f043-47d6-a67b-341b8455070e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>faf1ed83-5118-41cd-a543-f3cae7537fa9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9e6c0d71-f043-47d6-a67b-341b8455070e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>599b2423-6f70-4ccb-b00e-13c6f52c5c24</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f69a4004-af36-4851-a52f-fce9f6612a32</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Customer_UI/SignIn_LogIn/TC4_Customer_Login_Failed_with_Wrong_Email</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>79acc83a-6a6a-4067-aa19-0353ca786c57</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>79acc83a-6a6a-4067-aa19-0353ca786c57</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>c7364eda-1446-4e50-a505-46ba7ae44139</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>79acc83a-6a6a-4067-aa19-0353ca786c57</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>de77910c-94f9-42f7-8a54-e0ab52a29a2f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>95266a10-322c-468f-a6a4-dd9fb83cf079</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Customer_UI/SignIn_LogIn/TC5_Customer_Login_Failed_with_empty_Email</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>14695b5f-d683-4dfd-825e-dc1597f30ef4</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>14695b5f-d683-4dfd-825e-dc1597f30ef4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>4f04aeaf-1a0d-40d7-b016-71852580cefc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14695b5f-d683-4dfd-825e-dc1597f30ef4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>0e2ebe1d-2314-4ad8-a675-03ae37fda1da</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d292701f-6b1a-4f72-9829-396dca5c1698</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Customer_UI/SignIn_LogIn/TC6_Customer_Login_Failed_with_empty_Password</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>292c2cf2-8556-4a31-9e0a-b4f70e03f56c</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>5-5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>292c2cf2-8556-4a31-9e0a-b4f70e03f56c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>c067f826-cb2c-4e87-9c6a-09a91c838ae1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>292c2cf2-8556-4a31-9e0a-b4f70e03f56c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>121ac79b-a68d-4fac-99e5-98e512969714</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

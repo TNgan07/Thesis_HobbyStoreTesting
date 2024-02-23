@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F068BAAA72F543A980A8D824FF2530D4",
+  "keywordClasses": [
+    {
+      "name": "com.hobby.LoginTestKeyword",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

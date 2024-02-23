@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_Customer_LogOut_Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de2a1984-0eef-427d-b4c5-3b8620e19624</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56653bf0-6949-48e8-a524-3d9c39eb409d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8a0fc8c-455b-4975-bf77-bb41a15454e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56653bf0-6949-48e8-a524-3d9c39eb409d</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8a0fc8c-455b-4975-bf77-bb41a15454e6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debit or Credit Card</name>
+   <tag></tag>
+   <elementGuidId>a2692e2d-9489-4146-8101-80769fa39853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttons-container']/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>12bdf967-3ba6-4f25-b7bc-c93b997e3c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paypal-button-label-container</value>
+      <webElementGuid>6c43f839-fce2-445d-8d4b-86f30cf82d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Debit or Credit Card</value>
+      <webElementGuid>8c5c0944-e26b-42bb-af88-9071e49400af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttons-container&quot;)/div[@class=&quot;paypal-button-container paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox&quot;]/div[@class=&quot;paypal-button-row paypal-button-number-1 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-black paypal-button-text-color-white paypal-logo-color-white&quot;]/div[@class=&quot;paypal-button paypal-button-number-1 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-black paypal-button-text-color-white paypal-logo-color-white&quot;]/div[@class=&quot;paypal-button-label-container&quot;]</value>
+      <webElementGuid>828c757c-c053-4679-94e2-73a465082799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Failed/Page_Hobby - Material Design React Admin Template/iframe_paypal_01</value>
+      <webElementGuid>0fca4a7a-b730-4a5b-b52c-c0eb2bc493cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttons-container']/div/div[2]/div/div</value>
+      <webElementGuid>1c96e31c-5515-4656-b1e4-15b54e401513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered by'])[1]/preceding::div[3]</value>
+      <webElementGuid>7545ce22-56ae-4572-b4de-4a66cfe6ae3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>817754c7-1fbc-473e-96a8-dfb8745c6f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Debit or Credit Card' or . = ' Debit or Credit Card')]</value>
+      <webElementGuid>2f2cf96b-6c71-4105-83b1-b07542e59e06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

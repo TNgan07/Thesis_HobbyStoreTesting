@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thanh tonV paypal</name>
+   <tag></tag>
+   <elementGuidId>8b995f14-55a2-441f-afb3-731926a50629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header.MuiBox-root.css-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[3]/div[2]/div/div/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7ac6981-bc0f-48e0-8658-d43c6e890c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header MuiBox-root css-0</value>
+      <webElementGuid>27ba5181-c69d-4577-819a-088efc874e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán:Ví paypal</value>
+      <webElementGuid>6478a379-e38f-48c2-b5d7-52667f59b7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;invoice-page-wrapper&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-1vt60ei-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 css-1lj5egr-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root card-wrapper css-1jrv6xy-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-q5fqw0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;header MuiBox-root css-0&quot;]</value>
+      <webElementGuid>66215004-932b-4ae4-bc5b-4bd767a9b964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[3]/div[2]/div/div/div[2]/div[3]</value>
+      <webElementGuid>37ad1e30-a466-47b4-9fd6-a99bebf883a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng đơn hàng:'])[1]/following::div[1]</value>
+      <webElementGuid>870be5ef-ed43-42ec-bb7b-b750d961f068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phí vận chuyển:'])[1]/following::div[2]</value>
+      <webElementGuid>129d45bc-7f1a-487e-9f67-1b4d5dd0da43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>8a02d5e8-523b-4db8-b380-535242602d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thanh toán:Ví paypal' or . = 'Thanh toán:Ví paypal')]</value>
+      <webElementGuid>67ca75c6-312c-4367-8b23-759b8068a0b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

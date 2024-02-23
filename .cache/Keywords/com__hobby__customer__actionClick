@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "09207C21A7EF769DC0F732E73BAA3315",
+  "keywordClasses": [
+    {
+      "name": "com.hobby.customer.actionClick",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

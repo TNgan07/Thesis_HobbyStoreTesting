@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_Signup_MessageSignupSuccessfully</name>
+   <tag></tag>
+   <elementGuidId>0eaf4fcd-a50b-4cfa-ae0c-b82132358116</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>933524f5-7c34-4a67-9457-e3c215a559e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message</value>
+      <webElementGuid>019c52b4-c70b-49a0-824c-355b7ec4baa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tài khoản đã tạo thành công :></value>
+      <webElementGuid>72ad12fc-02f1-400c-8b8f-b5e0279b09e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;notification-container&quot;]/div[1]/div[@class=&quot;notification notification-success notification-enter-done&quot;]/div[@class=&quot;notification-message&quot;]/div[@class=&quot;message&quot;]</value>
+      <webElementGuid>ec47d306-4dfa-4528-9f36-4eec943d8da1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div</value>
+      <webElementGuid>0401496a-4748-4192-ba06-b2f539111ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thành công'])[1]/following::div[1]</value>
+      <webElementGuid>b6164816-9cea-478b-917f-b4ac68392a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::div[6]</value>
+      <webElementGuid>36eced74-afdc-4f83-b125-884a24060501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tài khoản đã tạo thành công :>']/parent::*</value>
+      <webElementGuid>84d0b020-04b4-4534-a017-2cdecaac06c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>06d6580f-c3df-4ecb-be96-4d3d516b5abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tài khoản đã tạo thành công :>' or . = 'Tài khoản đã tạo thành công :>')]</value>
+      <webElementGuid>f5673a95-b7d3-4d4f-9eaf-adba7d325004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

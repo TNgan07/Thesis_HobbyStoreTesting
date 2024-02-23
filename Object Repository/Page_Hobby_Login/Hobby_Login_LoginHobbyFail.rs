@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_Login_LoginHobbyFail</name>
+   <tag></tag>
+   <elementGuidId>521c6070-b6e1-4803-a21c-762693187767</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div[2]/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.MuiTypography-root.MuiTypography-h5.css-1gok89-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>fa24aafb-df5b-428a-8111-83150ad9ea83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 css-1gok89-MuiTypography-root</value>
+      <webElementGuid>d9636a34-8b32-4562-8a99-90d20345661a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Hobby! 👋🏻</value>
+      <webElementGuid>d7f4e971-82c4-4d74-88f8-2f94d2031575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper MuiBox-root css-33gw4&quot;]/div[@class=&quot;app-content MuiBox-root css-1bguz3s&quot;]/div[@class=&quot;content-center MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-e99yjz-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiCardContent-root css-m2p4xt-MuiCardContent-root&quot;]/div[@class=&quot;MuiBox-root css-1fobf8d&quot;]/h5[@class=&quot;MuiTypography-root MuiTypography-h5 css-1gok89-MuiTypography-root&quot;]</value>
+      <webElementGuid>5086b456-1501-421b-8436-4d7dfb5a5e58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div[2]/h5</value>
+      <webElementGuid>1642ddbc-27d5-42e8-ad66-c623aea6a19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobby'])[1]/following::h5[1]</value>
+      <webElementGuid>3d0993ef-f98b-47e1-8118-b727456d35a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to']/parent::*</value>
+      <webElementGuid>1604d8a9-58f3-4989-96b5-60e8fcdb6e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>ccb23ed8-60f8-4a0f-97a4-cc1660dbf0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Welcome to Hobby! 👋🏻' or . = 'Welcome to Hobby! 👋🏻')]</value>
+      <webElementGuid>97274807-c753-4fa0-ad26-20c5967bf9c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

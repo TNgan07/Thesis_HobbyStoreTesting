@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_Cart_RemoveProduct</name>
+   <tag></tag>
+   <elementGuidId>60083274-c1c5-46b2-bd8f-4747de28a258</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div/div/div/div/div[6]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>31265292-ee95-49f6-851a-1fe5278b2d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-trash</value>
+      <webElementGuid>af64568e-843c-4407-9bb7-5c37f24a77cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>82a98d49-85f6-4438-a91a-5a88881b70db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper MuiBox-root css-33gw4&quot;]/div[@class=&quot;app-content MuiBox-root css-1bguz3s&quot;]/div[@class=&quot;layout-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;cart-page-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;content-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;cart-item-wrapper MuiBox-root css-0&quot;]/div[1]/div[@class=&quot;cart-item css-vyxe4v-MuiStack-root&quot;]/div[@class=&quot;cell-center MuiBox-root css-0&quot;]/div[@class=&quot;icon-trash icon-cursor&quot;]/i[@class=&quot;fa-solid fa-trash&quot;]</value>
+      <webElementGuid>7f9528be-1430-4dd2-9f31-fea93b8e6121</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div/div/div/div/div[6]/div/i</value>
+      <webElementGuid>5008543a-d92d-4986-90ca-4de95c8ca41a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>f9409cdb-0fe5-4bee-96df-e7a2e1c27189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

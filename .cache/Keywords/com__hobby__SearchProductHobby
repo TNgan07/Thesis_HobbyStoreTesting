@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "589109F77F2A72BBA2423559469E9A49",
+  "keywordClasses": [
+    {
+      "name": "com.hobby.SearchProductHobby",
+      "keywordMethods": [
+        {
+          "name": "SearchingProduct",
+          "parameters": [
+            {
+              "name": "nameProduct",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "clickSearching",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_buttonAddToCart</name>
+   <tag></tag>
+   <elementGuidId>b4192780-02f5-463b-9476-8fa6fb1e1190</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div/div[2]/div[7]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2e666e6d-eb95-4fbe-847a-f5b2e717f309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-add</value>
+      <webElementGuid>7e3b0126-b034-4f96-9b6b-a75a7c71dace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm vào giỏ</value>
+      <webElementGuid>a1b78f81-d229-4fff-a0fb-8d36e8e8e65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper MuiBox-root css-33gw4&quot;]/div[@class=&quot;app-content MuiBox-root css-1bguz3s&quot;]/div[@class=&quot;layout-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;product-detail-wrapper&quot;]/div[@class=&quot;product-detail&quot;]/div[@class=&quot;box-right&quot;]/div[@class=&quot;product-action&quot;]/button[@class=&quot;btn-add&quot;]</value>
+      <webElementGuid>714bb737-65bc-4a57-821d-94fd57c57885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div/div[2]/div[7]/button[2]</value>
+      <webElementGuid>bf1c7f62-910d-4c4d-9b93-f41056698e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay'])[1]/following::button[1]</value>
+      <webElementGuid>567117e5-9cf0-4413-9b2f-267898482b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trải nghiệm'])[1]/preceding::button[1]</value>
+      <webElementGuid>3a273aea-c3f9-42a9-9ee0-b60599a0a6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thêm vào giỏ']/parent::*</value>
+      <webElementGuid>3bf9f9ca-b2a8-42c5-8e31-0cc08f78b7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button[2]</value>
+      <webElementGuid>356e15b6-c8a1-4395-ac0d-257f8c107069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Thêm vào giỏ' or . = 'Thêm vào giỏ')]</value>
+      <webElementGuid>02438ee8-64ae-453a-8922-478a7c77f5b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

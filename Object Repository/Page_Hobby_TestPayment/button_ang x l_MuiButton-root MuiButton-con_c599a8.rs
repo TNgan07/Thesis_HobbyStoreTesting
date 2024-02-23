@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ang x l_MuiButton-root MuiButton-con_c599a8</name>
+   <tag></tag>
+   <elementGuidId>2f3ea9b4-dcee-4ee8-ba3f-5b867a8a66eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.css-yqifab-MuiButtonBase-root-MuiButton-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ab4177f-d393-434a-89de-5d4e142d556f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-yqifab-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>7756038e-6236-4b7c-89c4-16ca0270d6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>84be87e9-2d66-42af-9b2b-fb519658049d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1640826b-6d9f-40ba-a9e6-38a1ef0990a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/div[@class=&quot;MuiBox-root css-15g2oxy&quot;]/div[@class=&quot;table-product MuiBox-root css-0&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root--densityStandard css-12sfeoh-MuiDataGrid-root&quot;]/div[@class=&quot;MuiDataGrid-main css-204u17-MuiDataGrid-main&quot;]/div[2]/div[@class=&quot;MuiDataGrid-virtualScroller css-1w5m2wr-MuiDataGrid-virtualScroller&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent MuiDataGrid-virtualScrollerContent--overflowed css-1kwdphh-MuiDataGrid-virtualScrollerContent&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-s1v7zr-MuiDataGrid-virtualScrollerRenderZone&quot;]/div[@class=&quot;MuiDataGrid-row&quot;]/div[@class=&quot;MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textLeft&quot;]/button[@class=&quot;MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-yqifab-MuiButtonBase-root-MuiButton-root&quot;]</value>
+      <webElementGuid>f67caa70-ab6a-4817-9a86-bee8604b6d12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>3c7e61a0-ce75-4d31-bb70-56978c3f9fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div/div[2]/div[2]/div/div/div/div/div[6]/button</value>
+      <webElementGuid>c7e52350-ed0f-436f-9f9b-da4d7b752531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đang xử lý'])[2]/following::button[1]</value>
+      <webElementGuid>7e9a327d-e4b2-44c3-a194-fca0c5ea8af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh Ngân'])[1]/following::button[1]</value>
+      <webElementGuid>5b6438dd-941a-4d35-a572-60c4298e15e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh Ngân'])[2]/preceding::button[1]</value>
+      <webElementGuid>be7df9ef-664f-4766-9a2d-47b56fc1e181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đang xử lý'])[3]/preceding::button[1]</value>
+      <webElementGuid>1ef66723-4e99-44a3-b5ed-181bbea7e61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>c04e7667-536f-4665-b7da-3002fb697843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>a043e646-852e-4f13-97a2-360efe959858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

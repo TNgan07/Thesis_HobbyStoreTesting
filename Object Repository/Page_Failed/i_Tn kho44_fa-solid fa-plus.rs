@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tn kho44_fa-solid fa-plus</name>
+   <tag></tag>
+   <elementGuidId>9fc57a68-21ca-46a2-ad6e-f6df6663208e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div/div/div/div/div[4]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>73bde0cc-77e2-4ef9-a29e-5954faf6aabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-plus</value>
+      <webElementGuid>fa7c9b2f-1be4-4022-b53d-4900528cb3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5734fd27-9906-40bb-adbd-38eaae5d7109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper MuiBox-root css-33gw4&quot;]/div[@class=&quot;app-content MuiBox-root css-1bguz3s&quot;]/div[@class=&quot;layout-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;cart-page-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;content-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;cart-item-wrapper MuiBox-root css-0&quot;]/div[1]/div[@class=&quot;cart-item css-vyxe4v-MuiStack-root&quot;]/div[@class=&quot;cell-center quantity MuiBox-root css-0&quot;]/button[2]/i[@class=&quot;fa-solid fa-plus&quot;]</value>
+      <webElementGuid>cfc32374-c156-400b-9a5f-1833425d6094</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div/div/div/div/div[4]/button[2]/i</value>
+      <webElementGuid>2995051f-e51e-4e48-8858-ad7abc45d50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>218a778c-5721-4541-807a-a1aba9e22907</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

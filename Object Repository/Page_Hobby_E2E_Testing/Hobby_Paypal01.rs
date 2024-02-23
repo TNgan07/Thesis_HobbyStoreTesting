@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_Paypal01</name>
+   <tag></tag>
+   <elementGuidId>2e027d15-bfbc-48c9-8b3f-bff2da03ce58</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttons-container']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;buttons-container&quot;)/div[@class=&quot;paypal-button-container paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox&quot;]/div[@class=&quot;paypal-button-row paypal-button-number-0 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-gold paypal-button-text-color-black paypal-logo-color-blue&quot;]/div[@class=&quot;paypal-button paypal-button-number-0 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-gold paypal-button-text-color-black paypal-logo-color-blue&quot;]/div[@class=&quot;paypal-button-label-container&quot;][count(. | //*[@ref_element = 'Object Repository/Page_Hobby_E2E_Testing/Hobby_iFramePaypal']) = count(//*[@ref_element = 'Object Repository/Page_Hobby_E2E_Testing/Hobby_iFramePaypal'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.paypal-button-label-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>940c50fc-7599-466c-bd2f-a1c3320a753c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paypal-button-label-container</value>
+      <webElementGuid>c40490b2-3b21-4b93-a49c-8553aa0e470d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttons-container&quot;)/div[@class=&quot;paypal-button-container paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox&quot;]/div[@class=&quot;paypal-button-row paypal-button-number-0 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-gold paypal-button-text-color-black paypal-logo-color-blue&quot;]/div[@class=&quot;paypal-button paypal-button-number-0 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-gold paypal-button-text-color-black paypal-logo-color-blue&quot;]/div[@class=&quot;paypal-button-label-container&quot;]</value>
+      <webElementGuid>0c2e6c11-130b-45e3-9704-5e972bb8986a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hobby_E2E_Testing/Hobby_iFramePaypal</value>
+      <webElementGuid>a3a7fb9c-2f8d-4b4c-babf-ce0b9d9ad966</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttons-container']/div/div/div/div</value>
+      <webElementGuid>d6efd018-592e-4613-a2cb-2b50427f49dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit or Credit Card'])[1]/preceding::div[2]</value>
+      <webElementGuid>194a5cad-8ee1-40b2-b0b4-16bd24d4bf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered by'])[1]/preceding::div[7]</value>
+      <webElementGuid>06015465-dd72-4354-bd96-78f343d6f0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>86e9a83d-fbb7-4b19-adaa-21530e0e968b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

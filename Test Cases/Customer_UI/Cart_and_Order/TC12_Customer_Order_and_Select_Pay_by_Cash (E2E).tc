@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_Customer_Order_and_Select_Pay_by_Cash (E2E)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b612256-2b6f-4dba-9189-478b49ab1681</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0755b76f-722e-469f-a4b4-a75ba2711ed8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f35c815b-0514-4d04-8319-5c4546d86215</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c16eda3-a03b-4e4d-b877-8427c21034f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0755b76f-722e-469f-a4b4-a75ba2711ed8</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f35c815b-0514-4d04-8319-5c4546d86215</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c16eda3-a03b-4e4d-b877-8427c21034f7</id>
+      <masked>false</masked>
+      <name>NameProduct</name>
+   </variable>
+</TestCaseEntity>

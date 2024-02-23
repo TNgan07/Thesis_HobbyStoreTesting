@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Customer_Search_Product_by_ProductName_Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>819567ea-4a30-4ae7-9451-4f83c3edf9b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50ff1ae1-7a6e-4423-8115-43be4c235770</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50ff1ae1-7a6e-4423-8115-43be4c235770</id>
+      <masked>false</masked>
+      <name>NameProduct</name>
+   </variable>
+</TestCaseEntity>

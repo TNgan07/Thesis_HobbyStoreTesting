@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Xem thm</name>
+   <tag></tag>
+   <elementGuidId>8c736d5c-9c4d-42cf-9482-1434e3671e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div/div/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bfbc7c79-d668-4778-beae-ab3f6313a55b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-more</value>
+      <webElementGuid>52604ef9-681f-44af-9c55-2ce00a333957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xem thêm</value>
+      <webElementGuid>3d81938a-6371-4df7-a981-08fd48520fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper MuiBox-root css-33gw4&quot;]/div[@class=&quot;app-content MuiBox-root css-1bguz3s&quot;]/div[@class=&quot;layout-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;search-wrapper&quot;]/div[@class=&quot;list-product&quot;]/div[@class=&quot;wrapper-product-item&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-action&quot;]/button[@class=&quot;btn-more&quot;]</value>
+      <webElementGuid>8d30a3e0-9154-46bb-9a77-652cea5deb6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div/div/div[4]/button</value>
+      <webElementGuid>8f9e4324-7052-453e-b838-7b187d46b0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sofa Coastal 1 chỗ'])[1]/following::button[1]</value>
+      <webElementGuid>512a1039-6201-4f83-8db9-1af844e6da39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục'])[2]/following::button[1]</value>
+      <webElementGuid>1b6d6591-886b-4a98-9f06-eea8f2daafdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sofa Dubai 2,5 chỗ hiện đại da Simili Be36'])[1]/preceding::button[1]</value>
+      <webElementGuid>deded1cd-72c9-4242-bb79-5932ea76bbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem thêm'])[2]/preceding::button[1]</value>
+      <webElementGuid>7c5689f6-e23f-4a02-b3ec-a9d8a34be6d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xem thêm']/parent::*</value>
+      <webElementGuid>87e601de-abbc-44bc-8b3f-320c4097f45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>aa9afb04-7542-4e96-bafd-5e2387af3100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Xem thêm' or . = 'Xem thêm')]</value>
+      <webElementGuid>06456776-d54c-4ff8-93aa-756d3177d824</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

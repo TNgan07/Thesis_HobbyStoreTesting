@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Customer_Search_Product_by_ProductName_is_Wrong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5ee297d-3619-4877-9bf5-e2ee30ed4611</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3b81f69-34aa-47c8-8c96-c8f3017bc3c9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3b81f69-34aa-47c8-8c96-c8f3017bc3c9</id>
+      <masked>false</masked>
+      <name>NameProduct</name>
+   </variable>
+</TestCaseEntity>

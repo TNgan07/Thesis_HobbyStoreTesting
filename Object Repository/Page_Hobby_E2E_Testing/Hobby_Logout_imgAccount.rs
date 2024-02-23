@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_Logout_imgAccount</name>
+   <tag></tag>
+   <elementGuidId>605ea3b6-3089-4f61-9aa9-15336d07e5f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/header/div/div/div[2]/span/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiAvatar-img.css-1pqm26d-MuiAvatar-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c11c8300-5719-4b16-bb1b-a580a67efe27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>John Doe</value>
+      <webElementGuid>23d47df0-d46d-40a2-af93-7ff40768a92a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://localhost:8080/base64/3HjjkntCk3.png</value>
+      <webElementGuid>3b9e4e26-b9f8-4d98-a512-e8cee7eff653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-img css-1pqm26d-MuiAvatar-img</value>
+      <webElementGuid>f3e2dba5-c33f-43dc-8fb2-f1350b9d86c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorDefault MuiAppBar-positionStatic layout-navbar no-print css-31x6lc-MuiPaper-root-MuiAppBar-root&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular navbar-content-container css-1prwezd-MuiToolbar-root&quot;]/div[@class=&quot;no-print MuiBox-root css-12d2mry&quot;]/div[@class=&quot;actions-right MuiBox-root css-70qvj9&quot;]/span[@class=&quot;MuiBadge-root css-1ircf5a-MuiBadge-root&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular css-1cz5njl-MuiAvatar-root&quot;]/img[@class=&quot;MuiAvatar-img css-1pqm26d-MuiAvatar-img&quot;]</value>
+      <webElementGuid>bbf230a1-acf6-4cd5-847b-28119cbf7faf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/header/div/div/div[2]/span/div/img</value>
+      <webElementGuid>2c9aefc8-4af6-4da7-99d0-bf8585640129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='John Doe']</value>
+      <webElementGuid>fb20c5de-b839-4d9d-b4ec-42d0aeeea583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>6ac9efd3-636e-4a67-bb74-012d49e818b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'John Doe' and @src = 'http://localhost:8080/base64/3HjjkntCk3.png']</value>
+      <webElementGuid>96c44298-45dc-405f-8293-049f3e605b35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

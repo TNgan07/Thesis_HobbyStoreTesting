@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobby_Logout_Account</name>
+   <tag></tag>
+   <elementGuidId>0375676c-fa1c-47cf-9670-c48bb1dbc839</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div[2]/div/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(2) > span.is-desktop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a73d60a9-207b-44d4-a17b-8fbbdcf9f159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-desktop</value>
+      <webElementGuid>5725b589-2c44-447b-bd1a-eb005a934154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tài khoản</value>
+      <webElementGuid>985ac708-fc16-4e55-b6ad-8e317b9b60ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper MuiBox-root css-33gw4&quot;]/div[@class=&quot;app-content MuiBox-root css-1bguz3s&quot;]/div[@class=&quot;layout-wrapper MuiBox-root css-0&quot;]/div[@class=&quot;header-wrapper&quot;]/div[@class=&quot;top-box&quot;]/div[@class=&quot;right-list&quot;]/div[@class=&quot;left-list-item&quot;]/span[2]/span[@class=&quot;is-desktop&quot;]</value>
+      <webElementGuid>0224173a-7423-45b7-9871-bd16fa8a38e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div[2]/div/span[2]/span</value>
+      <webElementGuid>1bf62701-5d13-4a50-8ef9-2ea31fad12e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/following::span[2]</value>
+      <webElementGuid>481d8243-6254-4fc1-94ce-239bd1c71226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giảm giá đặc biệt'])[1]/following::span[4]</value>
+      <webElementGuid>dc1a4037-edcd-4cb4-9c64-08bcd43fbb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[1]/preceding::span[1]</value>
+      <webElementGuid>484de7e0-31b0-4a77-9e72-d2ef27763f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phòng'])[1]/preceding::span[2]</value>
+      <webElementGuid>abc67a51-6b9c-48bf-810d-d11e774013a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tài khoản']/parent::*</value>
+      <webElementGuid>d02db69b-b9f1-4a95-a4c2-554ba108c639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>8c11e1d2-5070-4dec-9c77-47cf4bbe4e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tài khoản' or . = 'Tài khoản')]</value>
+      <webElementGuid>20a76cbb-21b8-4952-a546-ebd9034af9c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

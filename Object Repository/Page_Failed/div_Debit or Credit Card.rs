@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debit or Credit Card</name>
+   <tag></tag>
+   <elementGuidId>5ab7cfdd-a8a3-4c9b-aa05-ae6ab3bf76a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttons-container']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e576945f-48e6-44a9-9181-89f54db6f6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>8f1acd52-cd63-46b5-a9fc-9912bd302d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-funding-source</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>022a7845-c949-42d3-a5c9-659a1cee9776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paypal-button paypal-button-number-1 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-black paypal-button-text-color-white paypal-logo-color-white </value>
+      <webElementGuid>95ae614d-da30-4a3a-93e9-bba924d2d642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d0342dae-af21-4d20-b747-c22cd1c2f43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Debit or Credit Card</value>
+      <webElementGuid>3264f965-2e7e-4bfd-afb0-42bb75b6c34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Debit or Credit Card</value>
+      <webElementGuid>c85ec997-6859-4912-a7d2-7aa658ad0aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttons-container&quot;)/div[@class=&quot;paypal-button-container paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox&quot;]/div[@class=&quot;paypal-button-row paypal-button-number-1 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-black paypal-button-text-color-white paypal-logo-color-white&quot;]/div[@class=&quot;paypal-button paypal-button-number-1 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-multiple paypal-button-env-sandbox paypal-button-color-black paypal-button-text-color-white paypal-logo-color-white&quot;]</value>
+      <webElementGuid>9d7318a6-28d3-46ef-9c55-0eaa2c6e410e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Failed/iframe_Thanh ton qua paypal___zoid__paypal__54caf1</value>
+      <webElementGuid>3bee664e-8021-4d2e-9b5b-cc4d3e02738c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttons-container']/div/div[2]/div</value>
+      <webElementGuid>d8f527c5-a601-46f0-b62b-e071ebf2e670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered by'])[1]/preceding::div[4]</value>
+      <webElementGuid>78cbf4d6-80a7-49f1-8a91-16a9c14a1d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>edf6da0a-3d19-4a8f-af18-088831c968e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Debit or Credit Card' or . = ' Debit or Credit Card')]</value>
+      <webElementGuid>70989106-b690-49a8-b693-58918a4a3bb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
